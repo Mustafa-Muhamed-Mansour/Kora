@@ -1,5 +1,5 @@
 # Kora
-**Kora An application to know sports news in a country by country code, for example, "Egypt's code is eg"**
+## An application to know sports news in a country by country code, for example, "Egypt's code is eg"
 
 
 ## Built With 🛠
