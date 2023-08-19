@@ -1,5 +1,4 @@
-# Kora
-## An application to know sports news in a country by country code, for example, "Egypt's code is eg"
+# An application to know sports news in a country by country code, for example, "Egypt's code is eg"
 
 
 ## Built With 🛠
@@ -13,4 +12,4 @@
    - [Retrofit](https://square.github.io/retrofit/) - A type-safe HTTP client for Android and Java.
 
 
-<img src = "https://github.com/Mustafa-Muhamed-Mansour/Kora/assets/53982895/3701144b-921f-4c76-89fa-a556d205400b" width = "200" height = "400">  <img src = "https://github.com/Mustafa-Muhamed-Mansour/Kora/assets/53982895/79d52855-01d2-43d4-93b1-e3a091a186d4" width = "200" height = "400"> <img src = "" width = "200" height = "400">
+<img src = "https://github.com/Mustafa-Muhamed-Mansour/Kora/assets/53982895/3701144b-921f-4c76-89fa-a556d205400b" width = "200" height = "400">  <img src = "https://github.com/Mustafa-Muhamed-Mansour/Kora/assets/53982895/79d52855-01d2-43d4-93b1-e3a091a186d4" width = "200" height = "400">
